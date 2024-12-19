@@ -19,29 +19,30 @@ function About() {
                         <span>01. </span>À propos
                     </h1>
                     <div className="aboutFlex">
-                        <p>Hello, je m'appelle Ibrahima, j'ai 23 ans et ma passion c'est créer des sites internet.</p>
-                        <p><span>Mon intérêt pour ce domaine s'est développé</span> lors de mon enfance, je développais des sites sur mes jeux vidéos préférés et c'est ainsi que j'ai pu découvrir le métier de développeur web. Pendant mon parcours scolaire post-bac, j'ai commencé par faire une licence mathématique-informatique, mais je me suis rapidement rendu compte qu'il y avait beaucoup trop de théorie et pas assez de pratique. Je ne me voyais pas m'épanouir en continuant dans cette voie. J'ai alors décidé d'arrêter ce cursus scolaire et de me lancer dans <span>l'apprentissage du développement web</span> en autodidacte, puis avec Openclassrooms pour consolider mes compétences et découvrir de nouvelles technologies telles que...
-                            <span> React </span>ou encore
-                            <span> MongoDB</span>.
-                            <br />
-                            <br />
-                            Je suis actuellement à la recherche d'un emploi en
-                            tant que{" "}
-                            <span> développeur web frontend/backend junior !</span>
-                            <br />
-                            <br />
-                            Voici quelques langages et logiciels avec lesquels
-                            j’ai récemment travaillés :
-                        </p>
-                        <ul>
-                            <li>React</li>
-                            <li>Javascript</li>
-                            <li>MongoDB</li>
-                            <li>Node.js</li>
-                            <li>Figma</li>
-                            <li>Notion</li>
-                            <li>Express</li>
-                            <li>Postman</li>
+                    <p>Hello, je m'appelle Ibrahima, j'ai 24 ans et ma passion, c'est d'explorer, analyser et valoriser les données pour résoudre des problématiques complexes.</p>
+<p>
+    Mon parcours a commencé avec une forte passion pour le développement web. Pendant mon enfance, je créais des sites sur mes jeux vidéo préférés, ce qui m'a permis de découvrir les métiers liés à la programmation. Après le lycée, j'ai entrepris une licence en mathématiques et informatique, mais je me suis rapidement rendu compte que ce cursus était trop théorique pour moi. Je voulais un apprentissage plus pratique et concret. J'ai alors décidé de me former en développement web, d'abord en autodidacte, puis via OpenClassrooms, où j'ai appris des technologies comme 
+    <span>React</span>, <span>Node.js</span>, et <span>MongoDB</span>.
+</p>
+<p>
+    Au fil du temps, j'ai découvert la puissance des données dans la prise de décision et leur rôle dans l'amélioration des processus. Ce déclic m'a poussé à me spécialiser en analyse de données. Aujourd'hui, je combine mes compétences en développement et en analyse pour apporter des solutions innovantes et adaptées.
+</p>
+<p>
+    Je suis actuellement à la recherche d'un emploi en tant que 
+    <span>Data Analyst junior</span>, où je pourrais exploiter mes compétences en développement et en data pour fournir des insights pertinents et automatiser les workflows.
+</p>
+<p>
+    Voici quelques outils, langages et logiciels avec lesquels j’ai récemment travaillé :
+</p>
+<ul>
+    <li>Python (Pandas, NumPy, Matplotlib, Seaborn)</li>
+    <li>SQL</li>
+    <li>Tableau, Power BI</li>
+    <li>React</li>
+    <li>MongoDB</li>
+    <li>Node.js</li>
+    <li>Notion</li>
+    <li>Figma</li>
                         </ul>
                     </div>
                 </div>
