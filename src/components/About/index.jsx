@@ -29,7 +29,7 @@ function About() {
 </p>
 <p>
     Je suis actuellement à la recherche d'un emploi en tant que 
-    <span>Data Analyst junior</span>, où je pourrais exploiter mes compétences en développement et en data pour fournir des insights pertinents et automatiser les workflows.
+    <span>Data Analyst junior</span>, où je pourrais exploiter mees compétences en développement et en data pour fournir des insights pertinents et automatiser les workflows.
 </p>
 <p>
     Voici quelques outils, langages et logiciels avec lesquels j’ai récemment travaillé :
