@@ -79,5 +79,73 @@
             "DAX"
         ],
         "github": ""
+    },
+
+    {
+        "id": "d4e1b6f8",
+        "title": "cabinet de consultants",
+        "cover": "https://zupimages.net/up/24/51/04ox.jpeg",
+        "description": "Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD...",
+        "contexte": "Dans ce projet, je devais évoluer dans un cabinet de consultants spécialisé dans la transformation digitale. La directrice des ressources humaines m'avait sollicité pour automatiser la création d'un rapport sur l'égalité professionnelle entre les femmes et les hommes, en utilisant des données provenant du Système d’Information des Ressources Humaines (SIRH).",
+        "problématique": "La problématique tournait autour de la nécessité de respecter le Règlement Général sur la Protection des Données (RGPD) tout en analysant des indicateurs clés de l'égalité femmes/hommes. Je devais donc trouver un équilibre entre l'exploitation des données pour produire des analyses pertinentes et la protection de la vie privée des employés.",
+        "tags": [
+            "Excel",
+            "KNIME"
+        ],
+        "github": "https://github.com/Ibrahimae/MarketInsights"
+    },
+    {
+        "id": "f9c2a4e7",
+        "title": "Lapage",
+        "cover": "https://zupimages.net/up/24/51/8pyj.jpg",
+        "description": "Analysez les ventes d'une librairie avec Python...",
+        "contexte": "Le projet consistait à analyser les ventes d'une librairie, en ligne et physique, pour aider l'entreprise Lapage à orienter ses décisions stratégiques. Avec l'ouverture d'un site de vente en ligne, il était essentiel de comprendre comment les ventes fonctionnaient, quels produits se vendaient le mieux, et comment se comportaient les clients.",
+        "problématique": "La problématique principale résidait dans l'interprétation des données de vente afin de déterminer des stratégies marketing et opérationnelles efficaces. Je devais analyser comment ces indicateurs de vente pouvaient révéler des tendances et des corrélations importantes, et comment ces analyses pouvaient influencer la prise de décision au sein de l'entreprise.",
+        "tags": [
+            "Donnée",
+            "Analyse statistique",
+            "Series temporelles"
+        ],
+        "github": "https://github.com/Ibrahimae/GreenEnergy"
+    },
+    {
+        "id": "a3f7d2b1",
+        "title": "ONG DWFA",
+        "cover": "https://zupimages.net/up/24/51/u2uv.jpg",
+        "description": "Faire une étude sur l'eau potable...",
+        "contexte": "L'eau potable est essentielle à la santé humaine, au développement économique et à la durabilité environnementale. Pourtant, de nombreuses personnes à travers le monde n'ont pas accès à une eau de qualité. Environ 2 milliards de personnes vivaient dans des zones où l'eau était rare, ce qui impactait leur qualité de vie et leur santé.",
+        "problématique": "Je devais identifier les pays les plus touchés par un manque d'accès à l'eau potable et déterminer quelles données étaient nécessaires pour illustrer ces disparités. Il s'agissait également d'examiner les implications de l'accès à l'eau potable sur la santé publique et le développement socio-économique.",
+        "tags": [
+            "Power BI"
+        ],
+        "github": "https://github.com/Ibrahimae/RetailDashboard"
+    },
+    {
+        "id": "b8c4e6d3",
+        "title": "La poule qui chante",
+        "cover": "https://zupimages.net/up/24/51/health.jpg",
+        "description": "Produire une étude de marché avec Python...",
+        "contexte": "Je devais accompagner La poule qui chante, une entreprise qui souhaitait s'étendre à l'international. Cette entreprise avait besoin de comprendre les dynamiques du marché mondial pour prendre des décisions éclairées sur ses futurs axes de développement.",
+        "problématique": "Je devais déterminer dans quels pays l'entreprise pourrait se développer avec succès, en m'appuyant sur une analyse de données approfondie. Cela impliquait de collecter et d'analyser des données pertinentes, de réaliser une étude de marché complète, et de formuler des recommandations stratégiques à présenter au COMEX.",
+        "tags": [
+            "ACP",
+            "Statistiques",
+            "Python"
+        ],
+        "github": "https://github.com/Ibrahimae/HealthData"
+    },
+    {
+        "id": "c6f9a8e2",
+        "title": "L’Organisation nationale de lutte contre le faux-monnayage (ONCFM)",
+        "cover": "https://zupimages.net/up/24/51/innp.jpg",
+        "description": "Détectez des faux billets avec Python...",
+        "contexte": "Dans ce projet, je devais travailler pour l'Organisation nationale de lutte contre le faux-monnayage (ONCFM). La problématique concernait la détection des faux billets, un enjeu majeur pour la sécurité économique. Mon rôle était de développer un algorithme en R ou Python capable d'analyser un dataset de billets scannés afin de prédire l'authenticité de chaque billet.",
+        "problématique": "Le contexte impliquait l'utilisation de techniques de machine learning, notamment des algorithmes comme K-means, Régression logistique, KNN et Random Forest, pour extraire des caractéristiques pertinentes des données et améliorer la précision de mes prédictions.",
+        "tags": [
+            "Python",
+            "Machine learning",
+            "Optimisation"
+        ],
+        "github": "https://github.com/Ibrahimae/TransportOptimization"
     }
 ]
