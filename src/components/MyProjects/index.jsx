@@ -24,7 +24,7 @@ function MyProjects() {
             id="myProjects"
         >
             <h1>
-                <span>0112. </span>Mes projets deve
+                <span>02. </span>Mes projets
             </h1>
             <div className="workItems">
                 {datas.map((item) => (

@@ -1,102 +1,82 @@
 [
     {
         "id": "c67a30a7",
-        "title": "Kasa",
-        "cover": "https://zupimages.net/up/23/23/uaka.png",
-        "description": "Création d'une application web de location immobilière avec React...",
-        "contexte": "Kasa est dans le métier de la location d’appartements entre particuliers depuis près de 10 ans maintenant. Avec plus de 500 annonces postées chaque jour, Kasa fait partie des leaders de la location d’appartements entre particuliers en France. Le site de Kasa a été codé il y a maintenant plus de 10 ans en ASP.NET avec un code legacy important. La CTO a donc lancé une refonte totale pour passer à une stack complète en JavaScript avec NodeJS côté back-end, et React côté front-end. Kasa en a également profité pour commander de nouvelles maquettes auprès de son designer habituel, qui est en freelance.",
-        "problématique": "Un des problèmes rencontré lors de ce projet était la mise en place de bonnes pratiques. Je n'en connaissais aucune et au final, j'ai fais la découverte d'énormément de bonnes pratiques en React comme par exemple, chercher à créer des composants réutilisables, l'utilisation de key ou encore la gestion des états.",
-        "details": "J'ai été amené à démarrer le projet React et développer l’ensemble de l’application, les composants React, les routes React Router, en suivant les maquettes Figma (responsives), tout en prenant en compte les contraintes techniques de l'entreprise.",
+        "title": "Le grand marché",
+        "cover": "https://zupimages.net/up/24/51/4p4b.jpg",
+        "description": "Faire une analyse de ventes pour un e-commerce...",
+        "contexte": "Je devais analyser les données des clients affiliés pour en tirer des insights significatifs qui pourraient guider les décisions stratégiques de l'entreprise. Mon objectif était de créer un rapport mensuel clair et accessible, accompagné de graphiques pertinents et d'une proposition d'axes stratégiques.",
+        "problématique": "Comment présenter efficacement les données d'analyse mensuelle des clients affiliés pour permettre une prise de décision éclairée et proposer des axes d'amélioration pour Le Grand Marché ?",
+        "details": "",
         "tags": [
-            "React",
-            "Javascript",
-            "NodeJS"
+            "Excel",
+            "Storytelling",
+            "Powerpoint"
         ],
         "github": "https://github.com/Ibrahimae/OC_Projet6_Kasa"
     },
     {
         "id": "c67ab821",
-        "title": "Mon Vieux Grimoire",
-        "cover": "https://zupimages.net/up/23/23/ifbt.png",
-        "description": "Développement du back-end d'un site de notation de livres avec NodeJS...",
-        "contexte": "Le Vieux Grimoire est une petite chaîne de librairies qui souhaite ouvrir un site de référencement et de notation de livres. Le site s’appellera “Mon Vieux Grimoire”, et permettra aux membres d’ajouter un nouveau livre et de mettre une note visible par le public.",
-        "problématique": "Il fallait sécuriser le site contre les injections mais étant nouveau dans le back-end, je n'avais aucune connaissance dans ce domaine. En cherchant sur internet j'ai trouvé l'existence d'un module s'appellant mongo-sanitize qui permet de nettoyer les données fournies avant de les insérer dans la base de données MongoDB.",
+        "title": "Assurance",
+        "cover": "https://zupimages.net/up/24/51/lbwy.jpeg",
+        "description": "Requêtez une base de données avec SQL...",
+        "contexte": "L'objectif principal était d'apprendre à créer et gérer des bases de données en utilisant SQL. Je devais explorer les données, les traiter et les visualiser, ce qui est fondamental pour une carrière en data analysis ou business intelligence.",
+        "problématique": "La problématique à laquelle j'étais confronté était : Comment récupérer et analyser efficacement des données à partir d'une base de données ? Cela impliquait de bien comprendre les types de données, la conception de schémas relationnels, et de savoir rédiger des requêtes SQL pour extraire les informations pertinentes.",
         "details": "J'ai été amené à créer une API en suivant un document de spécifications techniques tout en prenant en compte la taille des images pour que le projet soit conforme aux bonnes pratiques de Green Code. J'ai aussi dû stocker des données de manière sécurisée, mettre en oeuvre des opérations CRUD de manière sécurisée et implémenter un modèle de logique de données conformément à la réglementation.",
         "tags": [
-            "MongoDB",
-            "NodeJS",
-            "Javascript",
-            "Green Code",
-            "Nodemon",
-            "Postman",
-            "API"
+            "SQL"
         ],
         "github": "https://github.com/Ibrahimae/P7"
     },
     {
         "id": "b2123946",
-        "title": "Sophie Bluel",
-        "cover": "https://zupimages.net/up/23/23/i93f.png",
-        "description": "Conception d'un site portfolio d'une architecte d'intérieur en Javascript...",
-        "contexte": "ArchiWebos est une agence qui s'occupe de la conception du site portfolio d'une architecte d'intérieur. L'HTML de ce portoflio est déjà effectué mais il manque la partie Javascript pour rendre le site dynamique, c'est là que j'interviens.",
-        "problématique": "Un de mes premiers projets en Javascript, c'est pour cela que j'ai eu du mal à le produire mais avec de la perséverance j'ai réussi à surmonter les problèmes rencontrés comme par exemple le fait de devoir vérifier que l'utilisateur avait bien un token et qu'il s'agissait de l'admin pour lui permettre de modifier la galerie.",
-        "details": "J'ai été amené à récupérer les données provenant d'une API pour les afficher sur le site web ainsi que la possibilité de les filtrer. Il y a aussi l'ajout de la possibilité d'ajouter, modifier et supprimer un projet si l'utilisateur est connecté en tant qu'admin.",
+        "title": "Food and Agriculture Organization of the United Nations (FAO)",
+        "cover": "https://zupimages.net/up/24/51/wkbz.png",
+        "description": "Réalisez une étude de santé publique avec Python...",
+        "contexte": "La sous-nutrition restait un problème de santé publique majeur dans le monde entier, touchant des millions de personnes, en particulier dans les régions en développement. Selon les rapports de la FAO et d'autres organisations internationales, des facteurs tels que la pauvreté, les conflits et les changements climatiques contribuaient à l'aggravation de la sécurité alimentaire. Entre 2013 et 2017, diverses politiques et initiatives avaient été mises en œuvre dans le but d'améliorer la nutrition des populations vulnérables.",
+        "problématique": "Je devais analyser comment l'évolution des taux de sous-nutrition entre 2013 et 2017 était influencée par les facteurs socio-économiques et environnementaux. Il s'agissait d'identifier les tendances dans les données historiques et de déterminer comment ces informations pouvaient informer les politiques actuelles et futures visant à lutter contre la sous-nutrition.",
+        "details": "",
         "tags": [
-            "Javascript",
-            "NodeJS",
-            "HTML",
-            "CSS",
-            "Figma",
-            "Swagger API"
+            "Python"
         ],
         "github": "https://github.com/Ibrahimae"
     },
     {
         "id": "c623aba7",
-        "title": "Nina Carducci",
-        "cover": "https://zupimages.net/up/23/23/j55w.png",
-        "description": "Optimisation SEO et débogage d'un site de photographe...",
-        "contexte": "J'analysais plusieurs sites internet à la recherche de nouveaux clients, parmis mes prospects, il y a le site de Nina Carducci, une photographe dont m'a parlé un ami. Cette dernière accepta ma demande en me demandant une optimisation de son site.",
-        "problématique": "Le problème avec ce projet était que l'outil Lighthouse donnait des scores qui n'étaient pas toujours similaire alors que je ne changeait rien. Pour le surmonter, j'ai dû corriger le plus possible les erreurs pour avoir dans tout les cas un score supérieur à 90.",
-        "details": "Le site était relativement long à charger étant donné que les images n'étaient pas redimensionné correctement et donc elle aurait la possibilité de gagner énormément de visiteurs si son site était optimisé pour les moteurs de recherche. Je lui ai fournis un document d'audit qui reprends les grandes lignes des problèmes de performances rencontré. En tout, j'ai fais une optimisation globale du site, une mise en place du référencement local en utilisant Schema.org, ajouté les balises meta pour les réseaux sociaux, amélioré l'accessibilité du site ainsi qu'un rapport d'optimisation présentant mes actions et leur impact.",
+        "title": "Laplace Immo,",
+        "cover": "https://zupimages.net/up/24/51/y8to.png",
+        "description": "Créez et utilisez une base de données immobilière avec SQL...",
+        "contexte": "Je devais agir en tant que Data Analyst pour Laplace Immo, un réseau d'agences immobilières en France. Le contexte était centré sur la nécessité de créer une base de données efficace pour collecter et analyser les transactions immobilières et foncières. Cela impliquait non seulement de s'assurer que la base de données était bien conçue pour stocker des informations pertinentes, mais également de garantir que ces données respectaient la réglementation RGPD",
+        "problématique": "La problématique principale était donc de comprendre comment adapter la structure de la base de données pour y intégrer de nouvelles données tout en maintenant sa conformité avec les exigences légales. Je devais également réfléchir à la manière d'utiliser cette base de données pour effectuer des analyses pertinentes afin d'aider l'entreprise à identifier les tendances du marché immobilier.",
         "tags": [
-            "Javascript",
-            "SEO",
-            "HTML",
-            "CSS",
-            "Wave",
-            "Rich Snippet"
+            "BDD",
+            "SQL",
+            "RGPD"
         ],
         "github": "https://github.com/Ibrahimae/OC-p5"
     },
     {
         "id": "c67ab1a7",
-        "title": "Booki",
-        "cover": "https://zupimages.net/up/23/23/ffq6.png",
-        "description": "Intégration d'une maquette pour une agence de reservation de vacances, en HTML/CSS...",
-        "contexte": "L’entreprise souhaitait développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix. J’ai été chargé d’intégrer l'interface du site avec du code HTML et CSS. Tous les liens de la maquette seront inactifs à cette étape.",
-        "problématique": "Il s'agissait d'un des premiers projets que je développais en responsive design donc je ne savais pas trop comment m'y prendre. Je me suis renseigné sur internet et me suis formé sur flexbox avec notamment Flexbox Froggy qui m'a permis de découvrir la propriété order qui m'a servit dans ce projet.",
-        "details": "J'ai été amené à suivre une note de synthèse qui regroupe les spécifications et contraintes techniques à respecter. Le site devait être entièrement responsive et c'était mon premier projet. J'ai versionné mon projet sur Git tout au long de son développement pour que la CTO ait accès à mon travail.",
+        "title": "BottleNeck",
+        "cover": "https://zupimages.net/up/24/51/3pvt.jpg",
+        "description": "Optimisez la gestion des données d'une boutique avec Python...",
+        "contexte": "Le contexte se situait dans un environnement de vente au détail, où une boutique, comme BottleNeck, devait gérer un large éventail de données concernant son stock, son chiffre d'affaires et ses clients.",
+        "problématique": "La problématique résidait dans le besoin d'analyser ces données de manière efficace et précise afin d'identifier les erreurs possibles, d’optimiser la gestion des stocks, d’améliorer le chiffre d'affaires et d’analyser les marges bénéficiaires. Je devais non seulement traiter et nettoyer ces données, mais aussi utiliser des méthodes d’analyse pour tirer des conclusions pertinentes qui pourraient aider à la prise de décisions stratégiques pour le comité de direction.",
         "tags": [
-            "HTML",
-            "CSS",
-            "Figma",
-            "Github"
+            "Python",
+            "Jeu de donnée"
         ],
         "github": "https://github.com/Ibrahimae/Booki"
     },
     {
         "id": "c67348a7",
-        "title": "Webgencia",
-        "cover": "https://zupimages.net/up/23/23/srr2.png",
-        "description": "Veille informationnelle, organisation et présentation de la solution technique pour un site de menus au client...",
-        "contexte": "Qwenta souhaitait faire développer un “Menu Maker”. Il s’agit d’un site permettant aux restaurateurs d’afficher et de mettre en page leurs menus facilement, en quelques clics.",
-        "problématique": "La prise en main de Notion était très compliquée étant donné qu'il s'agit d'un outil très complet. J'ai dû regarder énormément de tutoriel et fouiller un peu partout sur le site pour mener à bien ce projet très complet et enrichissant.",
-        "details": "J'ai été amené à mener, préparer et planifier le projet de développement du site. Pour se faire, j'ai commencé par faire une veille technologique pour proposer des solutions aux problématiques existantes. J'ai par la suite déterminé les spécifications techniques du site et pour finir, organisé la gestion de projet du développement du site sous forme de Kanban sur Notion ainsi qu'en faisant un planning prévisionnel.Par la suite, j'ai présenté ce travail de veille et de planification au chef de projet.",
+        "title": "ESN Data",
+        "cover": "https://zupimages.net/up/24/51/3sh0.jpg",
+        "description": "Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets...",
+        "contexte": "Je devais commencer par décrire l'entreprise ou l'organisation pour laquelle je développais le tableau de bord. Il s'agissait de comprendre ses activités, ses objectifs, et comment les données jouaient un rôle clé dans sa prise de décision. Cela impliquait également de prendre en compte les enjeux spécifiques du secteur d'activité du client.",
+        "problématique": "Je devais identifier le besoin spécifique du client. Quelles questions cherchaient-ils à résoudre grâce à ce tableau de bord ? Quelles données étaient pertinentes pour atteindre ces objectifs ? Par exemple, le client pouvait vouloir suivre l'avancement de divers projets, identifier des retards, ou mieux comprendre les performances de son équipe.",
         "tags": [
-            "Notion",
-            "PowerPoint",
-            "AGILE"
+            "Power BI",
+            "DAX"
         ],
         "github": ""
     }
